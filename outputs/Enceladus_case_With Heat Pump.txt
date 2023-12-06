@@ -1,0 +1,4 @@
+Avg RHU + Electronics Heating Power: 771.21 W
+Avg Heater and Pump Power: 337.08 W
+Avg Incoming Radiative Power: 47.49 W
+Avg Rejected Radiative Power: -1107.93 W
